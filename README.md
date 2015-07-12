@@ -1,1 +1,1 @@
-check voor ondertitels en stuur pushover bericht als er en ondertitel is
+check voor ondertitels en stuur pushover bericht als er een ondertitel is
